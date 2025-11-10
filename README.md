@@ -29,9 +29,9 @@ The project allows users to **select a database**, **view data**, **update recor
 
 Each database contains the following tables:
 
-- `User`  
+- `Appointment`  
 - `Student`  
-- `Department`  
+- `Consultant`  
 - `Feedback`  
 - `Ticket`
 
