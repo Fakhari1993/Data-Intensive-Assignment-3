@@ -100,7 +100,7 @@ Example:
 
 ## How to Run the Program
 
-### 🪜 Prerequisites
+### Prerequisites
 - Python installed  
 - SQL Server with the four databases restored  
 - `pyodbc` installed via:
