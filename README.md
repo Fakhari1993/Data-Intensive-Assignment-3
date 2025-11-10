@@ -1,8 +1,6 @@
 # Distributed Databases Project
-
-### Author
-**Mehrasajoon**  
-MSc Student in *Global Management of Innovation and Technology*  
+ 
+MSc Student in *Software Engineering*  
 LUT University  
 
 ---
