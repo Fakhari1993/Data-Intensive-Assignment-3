@@ -176,19 +176,6 @@ The demo video shows:
 
 ---
 
-## Grading Criteria (How This Project Meets Them)
-
-| Requirement | Achieved | Description |
-|--------------|-----------|--------------|
-| 3 Databases | Three local + one central |
-| Correct amount of data  | 5 tables × 10 rows per DB |
-| Select & access different DBs | User chooses campus database |
-| Print data  | Program displays joined student data |
-| Update data | User updates student info |
-| Backup & restore  | Automatic backup + restore method provided |
-
----
-
 ## Summary
 This project demonstrates a small distributed database environment with both replication and fragmentation.  
 The Python program enables multi-database access, interactive data viewing and updating, and automatic central database backup.  
